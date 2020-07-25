@@ -25,3 +25,6 @@ yarn-error.log*
 #powershellscriptloader
 gload.ps1
 *.ps1
+
+
+/Original_Images

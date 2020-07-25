@@ -1,5 +1,5 @@
 {
-  "name": "SaltyTreatConnoisseur",
+  "name": "saltytreatconnoisseur",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,12 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "*",
     "dotenv": "^8.2.0",
     "express": "*",
     "express-handlebars": "^4.0.6",
     "express-validator": "^6.6.0",
+    "os": "^0.1.1",
     "path": "*",
-    "body-parser": "*",
     "sqlite3": "^4.0.2"
   },
   "devDependencies": {
