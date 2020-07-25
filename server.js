@@ -8,7 +8,9 @@ const FS = require('fs');
 const APP = EXPRESS();
 const PORT = 8078;
 
-const REGULARROUTES = require('./routes/regularroutes');
+
+
+
 const BODYPARSER = require('body-parser');
 
 
